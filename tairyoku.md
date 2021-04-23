@@ -3,7 +3,7 @@
 start
 :体力 = 10;
 
-if (体力 <= 20) then (true)
+if (体力 <= 20) then (true)(false)
 :宿屋に泊まる;
 else
 :頑張ってレベル上げる;
