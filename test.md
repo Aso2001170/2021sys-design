@@ -1,6 +1,6 @@
 '''uml
 @startuml
-Alice -> Bod: Request
-Bod --> Alice: Response
+Alice -> Bob: Request
+Bob --> Alice: Response
 @enduml
 '''
